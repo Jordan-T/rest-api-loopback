@@ -42,5 +42,9 @@
   "Category": {
     "dataSource": "db",
     "public": true
+  },
+  "Todo": {
+    "dataSource": "db",
+    "public": true
   }
 }
