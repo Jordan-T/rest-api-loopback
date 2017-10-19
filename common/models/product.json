@@ -25,8 +25,8 @@
       "model": "Category",
       "foreignKey": "categoryId",
       "options": {
-        "nestRemoting": true,
-        "disableInclude": true
+        "nestRemoting": false,
+        "disableInclude": false
       }
     }
   },
