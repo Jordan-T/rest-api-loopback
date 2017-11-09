@@ -7,7 +7,7 @@
     "Role": 1,
     "Product": 1,
     "Category": 1,
-    "Todo": 4
+    "Todo": 5
   },
   "models": {
     "User": {},
@@ -20,7 +20,8 @@
     "Todo": {
       "1": "{\"title\":\"Lorem 1\",\"completed\":true,\"id\":1}",
       "2": "{\"title\":\"Lorem 2\",\"completed\":false,\"id\":2}",
-      "3": "{\"title\":\"Lorem 3\",\"completed\":false,\"id\":3}"
+      "3": "{\"title\":\"Lorem 3\",\"completed\":false,\"id\":3}",
+      "4": "{\"title\":\"string\",\"completed\":false,\"id\":4}"
     }
   }
 }
